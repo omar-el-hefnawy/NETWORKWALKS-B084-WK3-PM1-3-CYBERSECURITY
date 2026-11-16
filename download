@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local virtual environments and Python cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local environment/configuration files
+.env
+.env.*
