@@ -58,49 +58,49 @@ The screenshots below document the main steps and results from the three complet
 
 *PDF hash extraction*
 
-![JTR hash extraction](assets/screenshots/jtr-hash-extraction.png)
+![JTR hash extraction](jtr-hash-extraction.png)
 
 *Johnny cracking result*
 
-![Johnny cracking result](assets/screenshots/johnny-cracking-result.png)
+![Johnny cracking result](johnny-cracking-result.png)
 
 *JTR flag capture*
 
-![JTR flag capture](assets/screenshots/flag-capture-jtr.png)
+![JTR flag capture](flag-capture-jtr.png)
 
 
 **2. NetworkWalks tools**
 
 *Hash Calculator output*
 
-![NetworkWalks Hash Calculator](assets/screenshots/nw-hash-calculator.png)
+![NetworkWalks Hash Calculator](nw-hash-calculator.png)
 
 *Password Cracker result*
 
-![NetworkWalks Password Cracker result](assets/screenshots/nw-password-cracker-result.png)
+![NetworkWalks Password Cracker result](nw-password-cracker-result.png)
 
 *NetworkWalks flag capture*
 
-![NetworkWalks flag capture](assets/screenshots/flag-capture-networkwalks.png)
+![NetworkWalks flag capture](flag-capture-networkwalks.png)
 
 
 **3. HexStrike MCP and Claude Desktop**
 
 *HexStrike server running on Kali Linux*
 
-![HexStrike server startup](assets/screenshots/hexstrike-server-startup.png)
+![HexStrike server startup](hexstrike-server-startup.png)
 
 *Server health check and John the Ripper version*
 
-![HexStrike health and JTR version](assets/screenshots/hexstrike-health-and-jtr-version.png)
+![HexStrike health and JTR version](hexstrike-health-and-jtr-version.png)
 
 *Claude-assisted hash extraction and cracking workflow*
 
-![Claude JTR hash and crack](assets/screenshots/claude-jtr-hash-and-crack.png)
+![Claude JTR hash and crack](claude-jtr-hash-and-crack.png)
 
 *Additional flag-capture confirmation*
 
-![Flag capture persistence](assets/screenshots/flag-capture-persistence.png)
+![Flag capture persistence](flag-capture-persistence.png)
 
 
 ---
